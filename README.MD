@@ -6,7 +6,7 @@
 
 ```bash
 cd Desktop
-git clone https://github.com/ch1700/simple-SHA256-encoder-and-checker
+git clone https://github.com/chhpy/simple-SHA256-encoder-and-checker
 cd simple-SHA256-encoder-and-checker
 ```
 
